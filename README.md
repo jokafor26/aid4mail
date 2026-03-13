@@ -2,7 +2,8 @@
 
 Email Investigations
 
-In this lab I’m going to use Aid4Mail to examine emails and then use Autopsy to further do forensics and utilize the timeline features. 
+In this lab I’m going to use Aid4Mail to examine emails and then use Autopsy to further do forensics and utilize the timeline features.
+
 Opened up the Aid4Mail software.
 
  <img width="610" height="499" alt="image" src="https://github.com/user-attachments/assets/6fc9b9d3-cb3c-42f9-896a-d608e6c96aaf" />
